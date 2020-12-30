@@ -6,6 +6,6 @@
 - [Final report](https://github.com/atshirazi/banktelemarketing/blob/master/docs/Bank%20telemarketing%20project%20report.pdf)
 - [Project presentation]()
 ## 2. Notebook
-&emsp; The jupyter notebook contains all data wrangling, exploratory data analysis, modeling/classification report, and model tuning sections.
+&emsp; The Jupyter notebook file contains all data wrangling, exploratory data analysis, modeling/classification report, and model tuning sections.
 - [notebook](https://github.com/atshirazi/banktelemarketing/blob/master/docs/Bank%20telemarketing%20project%20report.pdf)
 
