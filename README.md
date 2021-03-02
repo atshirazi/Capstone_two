@@ -6,5 +6,5 @@ In this project, the data used are from the direct marketing campaigns (phone ca
 - [Project presentation](https://github.com/atshirazi/banktelemarketing/blob/master/docs/Bank%20telemarketing%20presentation.pdf)
 ## 2. Notebook
 The Jupyter notebook file contains all data wrangling, exploratory data analysis, modeling/classification, and model tuning sections.
-- [Notebook](https://github.com/atshirazi/banktelemarketing/blob/master/docs/Bank%20telemarketing%20project%20report.pdf)
+- [Notebook](https://github.com/atshirazi/banktelemarketing/blob/master/Notebook/Banktelemarketing.ipynb)
 
